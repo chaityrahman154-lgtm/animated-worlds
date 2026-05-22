@@ -1,23 +1,7 @@
 """
-3D Planet Colonizer - CSE 423 Group Project (Group 1, Section 4)
-Members:
-  - Safayat Rahman  [24101587] - Building System + Resource Management
-  - Samia Rahman    [23201064] - Meteor System + Defense + Collision
-  - Tahmidul Islam  [23201440] - Camera + Terrain + HUD + Game Flow
 
-Only OpenGL functions used in the Assignment 3 template are used here, plus
-glEnable(GL_DEPTH_TEST) for proper 3D occlusion.
+3D Planet Colonizer - Group Project 
 
-Novel mechanics on top of the spec:
-  * Central Core Reactor that must be defended (game ends if it dies even with lives left)
-  * Visible energy beams from each Mine to its bound Resource node
-  * Three meteor archetypes:
-        Standard (red)    - falls straight
-        Splitter (orange) - splits into two smaller meteors when destroyed
-        Seeker  (magenta) - drifts toward the nearest building while falling
-  * Day/Night cycle that scales meteor fall speed (night is dangerous)
-  * Wormhole Event - a swirling ring appears every few waves; entering with the
-    cursor teleports you to a mirrored grid cell, useful for emergency repairs
 """
 
 from OpenGL.GL import *
