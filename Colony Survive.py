@@ -1,6 +1,10 @@
 """
 
 3D Planet Colonizer - Group Project 
+Members:
+  - Safayat Rahman  [24101587] - Building System + Resource Management
+  - Samia Rahman    [23201064] - Meteor System + Defense + Collision
+  - Tahmidul Islam  [23201440] - Camera + Terrain + HUD + Game Flow
 
 """
 
