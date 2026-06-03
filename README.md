@@ -19,7 +19,7 @@ A 3D box construction scene using OpenGL primitives — `GL_QUADS` and `GL_LINES
 ### 🧬 Colony Survive
 A survival simulation where colony entities must navigate a dynamic environment. Demonstrates **entity state management**, movement logic, and real-time scene updates within the OpenGL event loop.
 
-# 🪐 3D Planet Colonizer
+## 🪐 3D Planet Colonizer
 
 A 3D strategy-survival game where the player lands on an alien planet and must build a thriving colony while defending against devastating meteor showers. Developed as a 3D Group Project for CSE 423 (Computer Graphics).
 
